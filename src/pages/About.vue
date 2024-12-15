@@ -19,13 +19,17 @@
           interpretation of Fibonacci identities. I was able to see the power in translating
           mathematical abstractions into computational solutions, revealing the symbiotic
           relationship between these disciplines. This passion has led me to my current role at
-          Morningstar which involves building machine learning models and tools for investors.
+          Morningstar which involves building software products.
         </p>
         <p>
-          As a design scientist, I aim to rummage in my box of tricks to create seamless experiences
-          for all humans by using technology to live harmoniously. Most importantly, I actively
-          place the "us" in front of the user and ensure the structure of design doesn't forget its
-          purpose and values a distinct practice for the good of humanity.
+          Before joining Morningstar, my passion for research originated from exploring multi-robot systems. 
+          Particularly, assessing the impact of physical interference on connectivity in low-cost multi-agent 
+          networks. The Rolling Dispersion Algorithm (RDA) my team intended on using, limits the robots’ ranges 
+          based on signal intensity. My research was focused on how the physical environment impacts the range 
+          of this intensity. Therefore, I modelled, conducted and recorded experiments to measure interference 
+          using the B.A.T.M.A.N. interface. This work later helped us conduct the RDA with an increased coverage 
+          area. Although I thrived in the research environment,  I wanted to be able to solve problems within the 
+          industry.
         </p>
       </div>
     </div>
