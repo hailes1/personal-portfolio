@@ -43,7 +43,7 @@ export default {
     },
     downloadCV() {
       // Call the downloadLocalPDF function
-      downloadLocalPDF('src/data/Resume - 11:12:24.pdf', 'report.pdf')
+      downloadLocalPDF('public/Resume - 11:12:24.pdf', 'report.pdf')
     },
   },
   mounted() {
